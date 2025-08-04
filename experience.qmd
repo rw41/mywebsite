@@ -1,0 +1,10 @@
+---
+title: 'Code & Tutorials'
+---
+If you arrived at this website from the HPC workshop, welcome!  
+Below you’ll find the code resources.  
+Feel free to [reach out](mailto:rw41@illinois.edu) if you have any questions!
+
+[Click here to access the code resources](https://docs.google.com/document/d/1Ap-_W-gLcIdmwE7s84pudsBpaqAAyq3CyK_L0_7n4Z8/edit?tab=t.0)
+
+

@@ -1,0 +1,43 @@
+---
+title: "Research"
+---
+
+You can find my [full CV here](cv.qmd).
+
+## Current Research
+
+My current research focuses on evaluating factor retention methods in large factor models. This project, conducted under the supervision of [Dr. Xia](https://education.illinois.edu/profile/yan-xia), was presented at IMPS 2025. I am currently preparing the manuscript, which is expected to be completed by the end of August.
+
+A major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the [**High-Performance Computing (HPC)**](https://docs.ncsa.illinois.edu/systems/icc/en/latest/index.html) cluster at UIUC, which significantly accelerates computation and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEMs in R from the Linux shell on HPC systems — available under the [Code & Tutorials](experience.qmd) tab.
+
+
+
+- **Wu, R.**, & Xia, Y. (in prep). *Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.*
+- **Wu, R.**, & Xia, Y. (2025, July). *Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.* Poster presented at the International Annual Meeting of the Psychometric Society (IMPS), Minneapolis, MN.
+
+---
+
+## Regularization in Complex Data
+
+After completing my previous project on large factor models, I developed a deeper interest in high-dimensional data and complex modeling, particularly in the context of network analysis. Currently, I am studying advanced techniques such as nonconvex regularization methods and Bayesian approaches (e.g., the Bayesian lasso), evaluating their performance and exploring their applications within Structural Equation Modeling (SEM).
+
+---
+
+
+## Applied SEM in Real-World Contexts
+
+My third research interest lies in applying Structural Equation Modeling (SEM) to real-world, complex datasets. Recently, I worked on a project using **Confirmatory Factor Analysis (CFA)** to analyze intensive nominal data from young students’ writing.
+
+
+- McKenna, M., Bottalico, P.,**Wu, R.**, Xia, Y., & Gerde, H. (July, 2025). *Characteristics of Kindergarten Sentence Structure Across Three Writing Genres.* In *Innovative Approaches to Examining Young Children’s Writing Development and Assessment from Preschool to Grade Five*, symposium presented at the Society for the Scientific Study of Reading Annual Meeting, Calgary, Canada.
+
+---
+
+## First Introduction to SEM: Emotional Labor Study
+
+During my undergraduate years, I used SEM to examine **multiple mediating pathways** linking emotional labor, well-being, emotional exhaustion, and turnover intentions.
+
+
+
+- Xie, Q., **Wu, R**., Chen, Y., Xue, M., Chen, Y., Wu, S., & Cai, J. (2023). *The impact of emotional labor on turnover intention among kindergarten teachers: Multiple mediating effects of emotional exhaustion and occupational well-being.* *Teacher Education Research, (3)*, 74–81. [https://doi.org/10.13445/j.cnki.t.e.r.2023.03.014](https://doi.org/10.13445/j.cnki.t.e.r.2023.03.014)
+

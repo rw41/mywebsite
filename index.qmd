@@ -1,0 +1,72 @@
+
+---
+title: "Welcome"
+format: html
+---
+
+<style>
+.page-wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  margin-top: 2rem;
+}
+.left-panel {
+  width: 260px;
+  flex-shrink: 0;
+  text-align: center;
+}
+.right-panel {
+  flex-grow: 1;
+  max-width: 750px;
+}
+img.profile {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.icon-link img {
+  width: 24px;
+  height: 24px;
+  margin: 0 6px;
+  vertical-align: middle;
+}
+</style>
+
+<div class="page-wrapper">
+
+<div class="left-panel">
+  <img src="images/profile.jpg" class="profile" alt="Ruoqian Wu">
+  <h3>Ruoqian Wu ｜吴若谦</h3>
+  <p style="font-size: 0.9rem; color: #555;">I am always looking for new collaborators.</p>
+ <p><a href="mailto:rw41@illinois.edu">rw41@illinois.edu</a></p>
+  <p>
+    <a class="icon-link" href="mailto:rw41@illinois.edu">
+      <img src="https://img.icons8.com/ios-filled/30/000000/filled-message.png" alt="Email" />
+    </a>
+    <a class="icon-link" href="https://www.linkedin.com/in/ruoqian-wu-a036a42b0/" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
+
+<div class="right-panel">
+
+<p>
+Hello and welcome! I am an incoming second-year MS student in the Quantitative Methods program at the University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://education.illinois.edu/profile/yan-xia" target="_blank">Dr. Xia</a>. I expect to graduate in Summer 2026 and am currently applying to Ph.D. programs in Quantitative Psychology for Fall 2025.
+</p>
+
+<p>
+My research lies at the intersection of complex data structures and advanced statistical modeling, with three primary areas of focus:
+</p>
+
+<ul>
+  <li>Improving the generalizability and robustness of Structural Equation Models (SEM).</li>
+  <li>Developing and applying regularization techniques, including nonconvex penalties and Bayesian Lasso, to enhance model estimation and variable selection.</li>
+  <li>high-dimensional, text, intensive-longitudinal, health, and process data.</li>
+  <li>Applying network analysis to uncover latent structures in psychological and behavioral systems..</li>
+</ul>
+
+</div>
+</div>

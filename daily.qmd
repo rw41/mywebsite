@@ -1,0 +1,50 @@
+
+
+I am deeply grateful to my family and friends—your support keeps me moving forward.
+
+<div class="photo-flash-gallery">
+  <img src="images/IMG_1302.jpg" class="fade-in delay-1" alt="IMG 1302">
+  <img src="images/IMG_3156.jpg" class="fade-in delay-2" alt="IMG 3156">
+  <img src="images/IMG_3155.jpg" class="fade-in delay-3" alt="IMG 3155">
+</div>
+
+ 
+ 
+ 
+```{=html}
+<style>
+.photo-flash-gallery img {
+  width: 220px;
+  height: 350px; /* or another value that looks good for all 3 */
+  object-fit: cover;
+  margin: 10px;
+  opacity: 0;
+  transform: scale(0.95);
+  transition: opacity 1s ease, transform 1s ease;
+}
+
+.fade-in {
+  animation: fadeIn 1s forwards;
+}
+
+.delay-1 {
+  animation-delay: 0.5s;
+}
+
+.delay-2 {
+  animation-delay: 1.5s;
+}
+
+.delay-3 {
+  animation-delay: 2.5s;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+</style>
+```
+

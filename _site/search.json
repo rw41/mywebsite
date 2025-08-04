@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Ruoqian",
+    "section": "",
+    "text": "While producing high-quality research is my top priority, I believe a meaningful research life goes beyond publications. I care deeply about maintaining both mental and physical health throughout this journey."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Ruoqian Wu ｜吴若谦\n\n\nI am always looking for new collaborators.\n\n\nrw41@illinois.edu\n\n\n     \n\n\n\n\nHello and welcome! I am an incoming second-year MS student in the Quantitative Methods program at the University of Illinois Urbana-Champaign (UIUC), advised by Dr. Xia. I expect to graduate in Summer 2026 and am currently applying to Ph.D. programs in Quantitative Psychology for Fall 2025.\n\n\nMy research lies at the intersection of complex data structures and advanced statistical modeling, with three primary areas of focus:\n\n\n\nImproving the generalizability and robustness of Structural Equation Models (SEM).\n\n\nDeveloping and applying regularization techniques, including nonconvex penalties and Bayesian Lasso, to enhance model estimation and variable selection.\n\n\nhigh-dimensional, text, intensive-longitudinal, health, and process data.\n\n\nApplying network analysis to uncover latent structures in psychological and behavioral systems.."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "📄 Download my CV"
+  },
+  {
+    "objectID": "cv.html#curriculum-vitae",
+    "href": "cv.html#curriculum-vitae",
+    "title": "CV",
+    "section": "",
+    "text": "📄 Download my CV"
+  },
+  {
+    "objectID": "daily.html",
+    "href": "daily.html",
+    "title": "Ruoqian Wu",
+    "section": "",
+    "text": "I am deeply grateful to my family and friends—your support keeps me moving forward."
+  },
+  {
+    "objectID": "daily.html#daily-life",
+    "href": "daily.html#daily-life",
+    "title": "Daily Life",
+    "section": "",
+    "text": "Occasional updates, thoughts, hobbies, and personal stories."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "You can find my full CV here."
+  },
+  {
+    "objectID": "research.html#research",
+    "href": "research.html#research",
+    "title": "Research",
+    "section": "",
+    "text": "Topics: network psychometrics, EFA, factor retention, simulation studies."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Code & Tutorials",
+    "section": "",
+    "text": "If you arrived at this website from the HPC workshop, welcome!\nBelow you’ll find the code resources.\nFeel free to reach out if you have any questions!\nClick here to access the code resources"
+  },
+  {
+    "objectID": "experience.html#experience-contributions",
+    "href": "experience.html#experience-contributions",
+    "title": "Experience & Contributions",
+    "section": "",
+    "text": "Graduate research assistant at UIUC\nConference presentations at IMPS 2025\nOpen-source contributor to R packages\nMentor in EFA simulation workshops"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-website",
+    "href": "index.html#welcome-to-my-website",
+    "title": "Welcome",
+    "section": "",
+    "text": "I’m Ruoqian Wu, a graduate student in educational statistics at UIUC.\nMy research focuses on exploratory factor analysis (EFA), network psychometrics, and dimensionality reduction.\nI recently conducted a simulation comparing 15 factor retention methods across 216 conditions.\n➡️ Learn more on the Research page\n📄 Download my CV\n🌱 Or see a glimpse of my daily life"
+  },
+  {
+    "objectID": "research.html#simulation-based-evaluation-of-factor-retention-methods",
+    "href": "research.html#simulation-based-evaluation-of-factor-retention-methods",
+    "title": "Research",
+    "section": "Simulation-Based Evaluation of Factor Retention Methods",
+    "text": "Simulation-Based Evaluation of Factor Retention Methods\nMy primary research focuses on evaluating the performance of factor retention methods in exploratory factor analysis (EFA), especially in large factor models. I conducted a large-scale simulation comparing 15 factor retention methods (e.g., PA, EGA, CD, RMSEA, TLI, etc.) across 216 design conditions, varying sample size, factor correlation, and loading magnitude.\nThe findings revealed that: - Parallel Analysis (PA) and Exploratory Graph Analysis (EGA) are consistently accurate across most conditions. - EGA-TMFG outperforms EGA-GLASSO in small sample settings. - Fit index–based methods (e.g., RMSEA, TLI) perform poorly under high-dimensional settings.\nThis research provides practical guidance for applied researchers conducting EFA in complex psychological and educational datasets."
+  },
+  {
+    "objectID": "research.html#network-psychometrics-ega",
+    "href": "research.html#network-psychometrics-ega",
+    "title": "Research",
+    "section": "Network Psychometrics & EGA",
+    "text": "Network Psychometrics & EGA\nI’m particularly interested in network-based methods like Exploratory Graph Analysis (EGA), which reframes dimensionality estimation as a community detection problem. My work explores how different network estimation techniques (GLASSO vs. TMFG) and community algorithms (Walktrap, Louvain) affect the stability and accuracy of dimensionality recovery."
+  },
+  {
+    "objectID": "research.html#applied-work-tools",
+    "href": "research.html#applied-work-tools",
+    "title": "Research",
+    "section": "Applied Work & Tools",
+    "text": "Applied Work & Tools\nI actively use R for simulation, data visualization, and psychometric modeling. My future work includes: - Applying EGA and regularized SEM to real-world data - Studying dimensionality in text data and response processes - Developing reproducible research pipelines using Quarto"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Welcome",
+    "section": "",
+    "text": "I am a master’s student in Educational Statistics at the University of Illinois Urbana-Champaign, where I work with Professor Yan Xia on statistical modeling, factor analysis, and network-based methods for psychological research. My current work centers on improving dimensionality estimation in large-scale exploratory factor models using simulations and modern machine learning techniques.\nThis site shares my ongoing work, academic journey, and research interests.\n📄 My Detail CV"
+  },
+  {
+    "objectID": "index.html#ruoqian-wu",
+    "href": "index.html#ruoqian-wu",
+    "title": "Welcome",
+    "section": "Ruoqian Wu",
+    "text": "Ruoqian Wu\nExploration never ends.\n\n\n\nGoogle Scholar ·\nORCID ·\nResearchGate"
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Research",
+    "section": "Current Research",
+    "text": "Current Research\nMy current research focuses on evaluating factor retention methods in large factor models. This project, conducted under the supervision of Dr. Xia, was presented at IMPS 2025. I am currently preparing the manuscript, which is expected to be completed by the end of August.\nA major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the High-Performance Computing (HPC) cluster at UIUC, which significantly accelerates computation and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEMs in R from the Linux shell on HPC systems — available under the Code & Tutorials tab.\n\nWu, R., & Xia, Y. (in prep). Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.\nWu, R., & Xia, Y. (2025, July). Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model. Poster presented at the International Annual Meeting of the Psychometric Society (IMPS), Minneapolis, MN."
+  },
+  {
+    "objectID": "research.html#regularization-in-complex-data",
+    "href": "research.html#regularization-in-complex-data",
+    "title": "Research",
+    "section": "Regularization in Complex Data",
+    "text": "Regularization in Complex Data\nAfter completing my previous project on large factor models, I developed a deeper interest in high-dimensional data and complex modeling, particularly in the context of network analysis. Currently, I am studying advanced techniques such as nonconvex regularization methods and Bayesian approaches (e.g., the Bayesian lasso), evaluating their performance and exploring their applications within Structural Equation Modeling (SEM)."
+  },
+  {
+    "objectID": "research.html#applied-sem-in-real-world-contexts",
+    "href": "research.html#applied-sem-in-real-world-contexts",
+    "title": "Research",
+    "section": "Applied SEM in Real-World Contexts",
+    "text": "Applied SEM in Real-World Contexts\nMy third research interest lies in applying Structural Equation Modeling (SEM) to real-world, complex datasets. Recently, I worked on a project using Confirmatory Factor Analysis (CFA) to analyze intensive nominal data from young students’ writing.\n\nMcKenna, M., Bottalico, P.,Wu, R., Xia, Y., & Gerde, H. (July, 2025). Characteristics of Kindergarten Sentence Structure Across Three Writing Genres. In Innovative Approaches to Examining Young Children’s Writing Development and Assessment from Preschool to Grade Five, symposium presented at the Society for the Scientific Study of Reading Annual Meeting, Calgary, Canada."
+  },
+  {
+    "objectID": "research.html#first-introduction-to-sem-emotional-labor-study",
+    "href": "research.html#first-introduction-to-sem-emotional-labor-study",
+    "title": "Research",
+    "section": "First Introduction to SEM: Emotional Labor Study",
+    "text": "First Introduction to SEM: Emotional Labor Study\nDuring my undergraduate years, I used SEM to examine multiple mediating pathways linking emotional labor, well-being, emotional exhaustion, and turnover intentions.\n\nXie, Q., Wu, R., Chen, Y., Xue, M., Chen, Y., Wu, S., & Cai, J. (2023). The impact of emotional labor on turnover intention among kindergarten teachers: Multiple mediating effects of emotional exhaustion and occupational well-being. Teacher Education Research, (3), 74–81. https://doi.org/10.13445/j.cnki.t.e.r.2023.03.014"
+  },
+  {
+    "objectID": "research.html#after-completing-my-previous-project-on-large-factor-models-i-developed-a-deeper-interest-in-high-dimensional-data-and-complex-modeling-particularly-in-the-context-of-network-analysis.-currently-i-am-studying-advanced-techniques-such-as-nonconvex-regularization-methods-and-bayesian-approaches-e.g.-the-bayesian-lasso-evaluating-their-performance-and-exploring-their-applications-within-structural-equation-modeling-sem.",
+    "href": "research.html#after-completing-my-previous-project-on-large-factor-models-i-developed-a-deeper-interest-in-high-dimensional-data-and-complex-modeling-particularly-in-the-context-of-network-analysis.-currently-i-am-studying-advanced-techniques-such-as-nonconvex-regularization-methods-and-bayesian-approaches-e.g.-the-bayesian-lasso-evaluating-their-performance-and-exploring-their-applications-within-structural-equation-modeling-sem.",
+    "title": "Research",
+    "section": "After completing my previous project on large factor models, I developed a deeper interest in high-dimensional data and complex modeling, particularly in the context of network analysis. Currently, I am studying advanced techniques such as nonconvex regularization methods and Bayesian approaches (e.g., the Bayesian lasso), evaluating their performance and exploring their applications within Structural Equation Modeling (SEM).",
+    "text": "After completing my previous project on large factor models, I developed a deeper interest in high-dimensional data and complex modeling, particularly in the context of network analysis. Currently, I am studying advanced techniques such as nonconvex regularization methods and Bayesian approaches (e.g., the Bayesian lasso), evaluating their performance and exploring their applications within Structural Equation Modeling (SEM)."
+  },
+  {
+    "objectID": "about.html#balancing-research-and-well-being",
+    "href": "about.html#balancing-research-and-well-being",
+    "title": "About Ruoqian",
+    "section": "",
+    "text": "While producing high-quality research is my top priority, I believe a meaningful research life goes beyond publications. I care deeply about maintaining both mental and physical health throughout this journey."
+  },
+  {
+    "objectID": "about.html#athletics-background",
+    "href": "about.html#athletics-background",
+    "title": "About Ruoqian",
+    "section": "Athletics Background",
+    "text": "Athletics Background\nBefore starting research as an undergraduate assistant, I was a student-athlete on the men’s basketball team at Fujian Normal University (FJNU), competing in the CUABL (Division II) — the Chinese University Association Basketball League. After 10 years of daily training, I made the difficult but necessary decision in my sophomore year to step away from the team and focus fully on academic research."
+  },
+  {
+    "objectID": "about.html#discipline-and-fitness",
+    "href": "about.html#discipline-and-fitness",
+    "title": "About Ruoqian",
+    "section": "Discipline and Fitness",
+    "text": "Discipline and Fitness\nThe habits I built as an athlete still shape my life today. I keep a consistent routine, avoid unhealthy habits, and eat healthily. I aim to stay energized, creative, and efficient each day. Daily workouts help me manage stress, especially during intense research periods and heavy coursework. My current personal bests are a 180-pound bench press and a 285-pound squat."
+  },
+  {
+    "objectID": "about.html#coffee-cars-and-curiosity",
+    "href": "about.html#coffee-cars-and-curiosity",
+    "title": "About Ruoqian",
+    "section": "Coffee, Cars, and Curiosity",
+    "text": "Coffee, Cars, and Curiosity\nI also enjoy brewing coffee—whether hand-pour or espresso—and experimenting with different beans and extraction methods. It mirrors my research mindset: tweaking inputs to achieve the best outcome. Recently, I’ve picked up car repair as a new hobby. I’ve already replaced filters and made some interior upgrades, and I’m eager to keep learning more."
+  },
+  {
+    "objectID": "daily.html#grateful-moments",
+    "href": "daily.html#grateful-moments",
+    "title": "Daily",
+    "section": "Grateful Moments",
+    "text": "Grateful Moments\nI am deeply grateful to my family and friends—your support keeps me moving forward."
+  }
+]
