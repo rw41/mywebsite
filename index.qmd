@@ -49,6 +49,16 @@ img.profile {
       <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png" alt="LinkedIn" />
     </a>
   </p>
+  
+  
+<!-- Visitor Map -->
+<p style="margin-top: 10px; text-align: center;">
+  <a href="https://clustrmaps.com/site/1c7gv" title="ClustrMaps">
+    <img src="//www.clustrmaps.com/map_v2.png?d=EZgLnX7M6p3EwaQzgb2MzXEBGMSMBx8ndBjso0VSDmU&cl=ffffff"
+         width="180" alt="Visitor Map" />
+  </a>
+</p>
+
 </div>
 
 <div class="right-panel">
