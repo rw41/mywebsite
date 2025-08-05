@@ -49,8 +49,7 @@ img.profile {
       <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png" alt="LinkedIn" />
     </a>
   </p>
-  
-  
+
 <!-- Visitor Map -->
 <p style="margin-top: 10px; text-align: center;">
   <a href="https://clustrmaps.com/site/1c7gv" title="ClustrMaps">
@@ -73,9 +72,9 @@ My research lies at the intersection of complex data structures and advanced sta
 
 <ul>
   <li>Improving the generalizability and robustness of Structural Equation Models (SEM).</li>
-  <li>Developing and applying regularization techniques, including nonconvex penalties and Bayesian Lasso, to enhance model estimation and variable selection.</li>
-  <li>high-dimensional, text, intensive-longitudinal, health, and process data.</li>
-  <li>Applying network analysis to uncover latent structures in psychological and behavioral systems..</li>
+  <li>Extending the applicability of network analysis to uncover latent structures.</li>
+  <li>Developing and evaluating adaptive regularization techniques, including nonconvex penalties and the Bayesian Lasso.</li>
+  <li>Advancing statistical methodology for complex data types, including high-dimensional, textual, intensive longitudinal, missing, health, and process data.</li>
 </ul>
 
 </div>
