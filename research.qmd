@@ -6,9 +6,9 @@ You can find my [full CV here](cv.qmd).
 
 ## Current Research
 
-My current research focuses on evaluating factor retention methods in large factor models. This project, conducted under the supervision of [Dr. Xia](https://education.illinois.edu/profile/yan-xia), was presented at IMPS 2025. I am currently preparing the manuscript, which is expected to be completed by the end of August.
+My current research focuses on evaluating factor retention methods in large factor models. This project, conducted under the supervision of [Dr. Xia (https://education.illinois.edu/profile/yan-xia) was presented at IMPS 2025. I am currently preparing the manuscript, which is expected to be completed this summer.
 
-A major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the [**High-Performance Computing (HPC)**](https://docs.ncsa.illinois.edu/systems/icc/en/latest/index.html) cluster at UIUC, which significantly accelerates computation and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEMs in R from the Linux shell on HPC systems — available under the [Code & Tutorials](experience.qmd) tab.
+A major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the [**High-Performance Computing (HPC)**](https://docs.ncsa.illinois.edu/systems/icc/en/latest/index.html) cluster at UIUC, which significantly accelerates computation and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEM in R from the Linux shell on HPC systems — available under the [Code & Tutorials](experience.qmd) tab.
 
 
 
@@ -17,9 +17,9 @@ A major challenge of this project involves conducting large-scale Monte Carlo si
 
 ---
 
-## Regularization in Complex Data
+## Adaptive Regularization in Complex Data
 
-After completing my previous project on large factor models, I developed a deeper interest in high-dimensional data and complex modeling, particularly in the context of network analysis. Currently, I am studying advanced techniques such as nonconvex regularization methods and Bayesian approaches (e.g., the Bayesian lasso), evaluating their performance and exploring their applications within Structural Equation Modeling (SEM).
+After completing my previous project on large factor models, I developed a strong interest in adaptive regularization techniques, especially within the context of network analysis. I am currently exploring advanced methods such as nonconvex penalties and Bayesian approaches (e.g., the Bayesian lasso), with a focus on evaluating their performance.
 
 ---
 

@@ -63,7 +63,7 @@ img.profile {
 <div class="right-panel">
 
 <p>
-Hello and welcome! I am an incoming second-year MS student in the Quantitative Methods program at the University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://education.illinois.edu/profile/yan-xia" target="_blank">Dr. Xia</a>. I expect to graduate in Summer 2026 and am currently applying to Ph.D. programs in Quantitative Psychology for Fall 2025.
+Hello and welcome! I am an incoming second-year MS student in the Quantitative Methods program at the University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://education.illinois.edu/profile/yan-xia" target="_blank">Dr. Xia</a>. I expect to graduate in Summer 2026 and am currently applying to Ph.D. programs in Quantitative Psychology for Fall 2026.
 </p>
 
 <p>
