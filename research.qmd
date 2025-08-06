@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-You can find my [full CV here](cv.qmd).
+
 
 ## Current Research
 
@@ -19,7 +19,7 @@ A major challenge of this project involves conducting large-scale Monte Carlo si
 
 ## Adaptive Regularization in Complex Data
 
-After completing my previous project on large factor models, I developed a strong interest in adaptive regularization techniques, especially within the context of network analysis. I am currently exploring advanced methods such as nonconvex penalties and Bayesian approaches (e.g., the Bayesian lasso), with a focus on evaluating their performance.
+After completing my previous project on large factor models, I developed a strong interest in adaptive regularization techniques, especially within the context of network analysis. I am currently exploring advanced methods such as nonconvex penalties and Bayesian approaches (e.g., the Bayesian lasso), where Bayesian methods (especially prior and posterior checks) can make regularization models even more self-adaptive.
 
 ---
 
