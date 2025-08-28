@@ -46,7 +46,7 @@
     "href": "research.html#adaptive-regularization-in-complex-data",
     "title": "Research",
     "section": "Adaptive Regularization in Complex Data",
-    "text": "Adaptive Regularization in Complex Data\nAfter completing my previous project on large factor models, I developed a strong interest in adaptive regularization techniques, especially within the context of network analysis. I am currently exploring advanced methods such as nonconvex penalties and Bayesian approaches (e.g., the Bayesian lasso), where Bayesian methods (especially prior and posterior checks) can make regularization models even more self-adaptive."
+    "text": "Adaptive Regularization in Complex Data\nAfter completing my previous project on large factor models, I developed a strong interest in adaptive regularization techniques, especially within the context of network analysis. I am currently exploring advanced methods such as nonconvex penalties and Bayesian approaches (e.g., the Bayesian lasso), where Bayesian methods (especially prior and posterior checks) can make regularization models even more self-adaptive.My ability in this area is supported by the training I received in STAT 431 (Applied Bayesian Analysis) and STAT 432 (Basics of Statistical Learning), which has laid the foundation for my current exploration of adaptive regularization methods, particularly nonconvex penalties and Bayesian approaches."
   },
   {
     "objectID": "research.html#applied-sem-in-real-world-contexts",
