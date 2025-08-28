@@ -63,7 +63,7 @@ img.profile {
 <div class="right-panel">
 
 <p>
-Hello and welcome! I am an incoming second-year MS student in the Quantitative Methods program at the University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://education.illinois.edu/profile/yan-xia" target="_blank">Dr. Xia</a>. I expect to graduate in Summer 2026 and am currently applying to Ph.D. programs in Quantitative Psychology for Fall 2026.
+Hello and welcome! I am an second-year MS student in the Quantitative Methods program at the University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://education.illinois.edu/profile/yan-xia" target="_blank">Prof. Xia</a>. I expect to graduate in Summer 2026 and am currently applying to Ph.D. programs in Quantitative Psychology for Fall 2026.
 </p>
 
 <p>
@@ -75,6 +75,7 @@ My research lies at the intersection of complex data structures and advanced sta
   <li>Extending the applicability of network analysis to uncover latent structures.</li>
   <li>Developing and evaluating adaptive regularization techniques, including nonconvex penalties and the Bayesian Lasso.</li>
   <li>Advancing statistical methodology for complex data types, including high-dimensional, textual, intensive longitudinal, missing, health, and process data.</li>
+  <li>Integrating causal inference and machine learning, such as combining propensity score methods with deep learning techniques.</li>
 </ul>
 
 </div>
