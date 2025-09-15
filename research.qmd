@@ -6,9 +6,9 @@ title: "Research"
 
 ## Current Research
 
-My current research focuses on evaluating factor retention methods in large factor models. This project, conducted under the supervision of [Prof. Xia](https://education.illinois.edu/profile/yan-xia) was presented at IMPS 2025. I am currently preparing the manuscript, which is expected to be completed this summer.
+My current research focuses on evaluating factor retention methods for different types of data in large factor models. This project, conducted under the supervision of [Prof. Xia](https://education.illinois.edu/profile/yan-xia) was presented at IMPS 2025. I am currently preparing the manuscript, which is ready to submit.
 
-A major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the [High-Performance Computing (HPC)](https://docs.ncsa.illinois.edu/systems/icc/en/latest/index.html) cluster at UIUC, which significantly accelerates computation and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEM in R from the Linux shell on HPC systems — available under the [Code & Tutorials](experience.qmd) tab.
+A major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the [High-Performance Computing (HPC)](https://docs.ncsa.illinois.edu/systems/icc/en/latest/index.html) cluster at UIUC, which significantly accelerates computation(60x) and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEM in R from the Linux shell on HPC systems — available under the [Code & Tutorials](experience.qmd) tab.
 
 
 
@@ -17,27 +17,28 @@ A major challenge of this project involves conducting large-scale Monte Carlo si
 
 ---
 
-## Adaptive Regularization in Complex Data
+## Statistical learning and Bayes to solve challenges in the real world
+With advances in technology, researchers now have access to a wider range of data collection methods—for example, Computerized Adaptive Testing (CAT), Ecological Momentary Assessment (EMA), and Natural Language Processing (NLP). Consequently, the data used in behavioral and psychological research have become increasingly diverse and complex. To address such research questions, we often work with intensive longitudinal data, high-dimensional data, text data, and missing data, analyzed through structural equation modeling (SEM), hierarchical linear modeling (HLM), multidimensional item response theory (MIRT), and network analysis. In these contexts, traditional estimation methods and fit indices frequently lose their robustness. By contrast, statistical learning and Bayesian approaches provide greater flexibility and resilience, particularly when handling nonlinear structures and parameters that are difficult to estimate.So this is my second research area,Using modern statistical learning (e.g., regularization, machine learning) and Bayesian approaches to address challenges in behavioral and psychological research.
 
-After completing my previous project on large factor models, I developed a strong interest in adaptive regularization techniques, especially within the context of network analysis.  I was specifically interested in the high-dimensional scenario, especially when $p > n$. In this case, $X^\top X$ becomes non-invertible, which makes ordinary least squares estimation unstable and prone to overfitting. I am currently exploring advanced methods such as nonconvex penalties and Bayesian approaches (e.g., the Bayesian lasso), where Bayesian methods (especially prior and posterior checks) can make regularization models even more self-adaptive.My ability in this area is supported by the training I received in **[STAT 431 (Applied Bayesian Analysis)](https://courses.illinois.edu/schedule/2025/fall/STAT/431)** and **[STAT 432 (Basics of Statistical Learning)](https://teazrq.github.io/stat432/)**, which has laid the foundation for my current exploration of adaptive regularization methods.
+
+My ability in this area is supported by the training I received in **[STAT 431 (Applied Bayesian Analysis)](https://courses.illinois.edu/schedule/2025/fall/STAT/431)** and **[STAT 432 (Basics of Statistical Learning)](https://teazrq.github.io/stat432/)**, which has laid the foundation for my current exploration of adaptive regularization and Bayesian methods.
 
 
 ---
 
 
-## Applied SEM in Real-World Contexts
+## Applied quantitative psychology in Real-World Contexts
 
-My third research interest lies in applying Structural Equation Modeling (SEM) to real-world, complex datasets. Recently, I worked on a project using **Confirmatory Factor Analysis (CFA)** to analyze intensive nominal data from young students’ writing.
+My third research interest involves applying quantitative psychology to real-world, complex datasets. Recently, I worked on a project that used Confirmatory Factor Analysis (CFA) to examine intensive nominal data from young students’ writing.
 
 
 - McKenna, M., Bottalico, P.,**Wu, R.**, Xia, Y., & Gerde, H. (July, 2025). *Characteristics of Kindergarten Sentence Structure Across Three Writing Genres.* In *Innovative Approaches to Examining Young Children’s Writing Development and Assessment from Preschool to Grade Five*, symposium presented at the Society for the Scientific Study of Reading Annual Meeting, Calgary, Canada.
 
 ---
 
-## First Introduction to SEM: Emotional Labor Study
+## My First Introduction to SEM, First Research Project, and First Publication as an Undergraduate
 
-During my undergraduate years, I used SEM to examine **multiple mediating pathways** linking emotional labor, well-being, emotional exhaustion, and turnover intentions.
-
+During my undergraduate years, I used SEM to examine multiple mediating pathways linking emotional labor, well-being, emotional exhaustion, and turnover intentions. I translated an existing scale into Chinese and validated it through EFA and CFA, and I also contributed to the introduction, discussion, formatting, and reference citations for the publication paper. This project began in the second month of college and continued through the completion of my undergraduate thesis. Through this experience, I discovered my passion for research and developed the aspiration to pursue a PhD in quantitative psychology.
 
 
 - Xie, Q., **Wu, R**., Chen, Y., Xue, M., Chen, Y., Wu, S., & Cai, J. (2023). *The impact of emotional labor on turnover intention among kindergarten teachers: Multiple mediating effects of emotional exhaustion and occupational well-being.* *Teacher Education Research, (3)*, 74–81. [https://doi.org/10.13445/j.cnki.t.e.r.2023.03.014](https://doi.org/10.13445/j.cnki.t.e.r.2023.03.014)

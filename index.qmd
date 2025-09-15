@@ -39,7 +39,7 @@ img.profile {
 <div class="left-panel">
   <img src="images/profile.jpg" class="profile" alt="Ruoqian Wu">
   <h3>Ruoqian Wu ｜吴若谦</h3>
-  <p style="font-size: 0.9rem; color: #555;">I am always looking for new collaborators.</p>
+  <p style="font-size: 0.9rem; color: #555;">I am always looking for new ideas, suggestions, collaborators. Feel free to reach out me :)</p>
  <p><a href="mailto:rw41@illinois.edu">rw41@illinois.edu</a></p>
   <p>
     <a class="icon-link" href="mailto:rw41@illinois.edu">
@@ -71,11 +71,11 @@ My research lies at the intersection of complex data structures and advanced sta
 </p>
 
 <ul>
-  <li>Improving the generalizability and robustness of Structural Equation Models (SEM).</li>
-  <li>Extending the applicability of network analysis to uncover latent structures.</li>
-  <li>Developing and evaluating adaptive regularization techniques, including nonconvex penalties and the Bayesian Lasso.</li>
-  <li>Advancing statistical methodology for complex data types, including high-dimensional, textual, intensive longitudinal, missing, health, and process data.</li>
-  <li>Integrating causal inference and machine learning, such as combining propensity score methods with deep learning techniques.</li>
+<li>Factor analysis for complex models and data.</li>
+<li>Using modern statistical learning (e.g., regularization, machine learning) and Bayesian approaches to address challenges in behavioral and psychological research.</li>
+<li>Development of statistical methods for several difficult data types, including longitudinal, high-dimensional, text,nonnormal, and missing data, in structural equation modeling and item response theory.</li>
+
+
 </ul>
 
 </div>

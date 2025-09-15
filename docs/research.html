@@ -68,35 +68,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -169,30 +140,31 @@ window.Quarto = {
 
 <section id="current-research" class="level2">
 <h2 class="anchored" data-anchor-id="current-research">Current Research</h2>
-<p>My current research focuses on evaluating factor retention methods in large factor models. This project, conducted under the supervision of <a href="https://education.illinois.edu/profile/yan-xia">Prof.&nbsp;Xia</a> was presented at IMPS 2025. I am currently preparing the manuscript, which is expected to be completed this summer.</p>
-<p>A major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the <a href="https://docs.ncsa.illinois.edu/systems/icc/en/latest/index.html">High-Performance Computing (HPC)</a> cluster at UIUC, which significantly accelerates computation and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEM in R from the Linux shell on HPC systems — available under the <a href="./experience.html">Code &amp; Tutorials</a> tab.</p>
+<p>My current research focuses on evaluating factor retention methods for different types of data in large factor models. This project, conducted under the supervision of <a href="https://education.illinois.edu/profile/yan-xia">Prof.&nbsp;Xia</a> was presented at IMPS 2025. I am currently preparing the manuscript, which is ready to submit.</p>
+<p>A major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the <a href="https://docs.ncsa.illinois.edu/systems/icc/en/latest/index.html">High-Performance Computing (HPC)</a> cluster at UIUC, which significantly accelerates computation(60x) and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEM in R from the Linux shell on HPC systems — available under the <a href="./experience.html">Code &amp; Tutorials</a> tab.</p>
 <ul>
 <li><strong>Wu, R.</strong>, &amp; Xia, Y. (in prep). <em>Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.</em></li>
 <li><strong>Wu, R.</strong>, &amp; Xia, Y. (2025, July). <em>Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.</em> Poster presented at the International Annual Meeting of the Psychometric Society (IMPS), Minneapolis, MN.</li>
 </ul>
 <hr>
 </section>
-<section id="adaptive-regularization-in-complex-data" class="level2">
-<h2 class="anchored" data-anchor-id="adaptive-regularization-in-complex-data">Adaptive Regularization in Complex Data</h2>
-<p>After completing my previous project on large factor models, I developed a strong interest in adaptive regularization techniques, especially within the context of network analysis. I was specifically interested in the high-dimensional scenario, especially when <span class="math inline">\(p &gt; n\)</span>. In this case, <span class="math inline">\(X^\top X\)</span> becomes non-invertible, which makes ordinary least squares estimation unstable and prone to overfitting. I am currently exploring advanced methods such as nonconvex penalties and Bayesian approaches (e.g., the Bayesian lasso), where Bayesian methods (especially prior and posterior checks) can make regularization models even more self-adaptive.My ability in this area is supported by the training I received in <strong><a href="https://courses.illinois.edu/schedule/2025/fall/STAT/431">STAT 431 (Applied Bayesian Analysis)</a></strong> and <strong><a href="https://teazrq.github.io/stat432/">STAT 432 (Basics of Statistical Learning)</a></strong>, which has laid the foundation for my current exploration of adaptive regularization methods.</p>
+<section id="statistical-learning-and-bayes-to-solve-challenges-in-the-real-world" class="level2">
+<h2 class="anchored" data-anchor-id="statistical-learning-and-bayes-to-solve-challenges-in-the-real-world">Statistical learning and Bayes to solve challenges in the real world</h2>
+<p>With advances in technology, researchers now have access to a wider range of data collection methods—for example, Computerized Adaptive Testing (CAT), Ecological Momentary Assessment (EMA), and Natural Language Processing (NLP). Consequently, the data used in behavioral and psychological research have become increasingly diverse and complex. To address such research questions, we often work with intensive longitudinal data, high-dimensional data, text data, and missing data, analyzed through structural equation modeling (SEM), hierarchical linear modeling (HLM), multidimensional item response theory (MIRT), and network analysis. In these contexts, traditional estimation methods and fit indices frequently lose their robustness. By contrast, statistical learning and Bayesian approaches provide greater flexibility and resilience, particularly when handling nonlinear structures and parameters that are difficult to estimate.So this is my second research area,Using modern statistical learning (e.g., regularization, machine learning) and Bayesian approaches to address challenges in behavioral and psychological research.</p>
+<p>My ability in this area is supported by the training I received in <strong><a href="https://courses.illinois.edu/schedule/2025/fall/STAT/431">STAT 431 (Applied Bayesian Analysis)</a></strong> and <strong><a href="https://teazrq.github.io/stat432/">STAT 432 (Basics of Statistical Learning)</a></strong>, which has laid the foundation for my current exploration of adaptive regularization and Bayesian methods.</p>
 <hr>
 </section>
-<section id="applied-sem-in-real-world-contexts" class="level2">
-<h2 class="anchored" data-anchor-id="applied-sem-in-real-world-contexts">Applied SEM in Real-World Contexts</h2>
-<p>My third research interest lies in applying Structural Equation Modeling (SEM) to real-world, complex datasets. Recently, I worked on a project using <strong>Confirmatory Factor Analysis (CFA)</strong> to analyze intensive nominal data from young students’ writing.</p>
+<section id="applied-quantitative-psychology-in-real-world-contexts" class="level2">
+<h2 class="anchored" data-anchor-id="applied-quantitative-psychology-in-real-world-contexts">Applied quantitative psychology in Real-World Contexts</h2>
+<p>My third research interest involves applying quantitative psychology to real-world, complex datasets. Recently, I worked on a project that used Confirmatory Factor Analysis (CFA) to examine intensive nominal data from young students’ writing.</p>
 <ul>
 <li>McKenna, M., Bottalico, P.,<strong>Wu, R.</strong>, Xia, Y., &amp; Gerde, H. (July, 2025). <em>Characteristics of Kindergarten Sentence Structure Across Three Writing Genres.</em> In <em>Innovative Approaches to Examining Young Children’s Writing Development and Assessment from Preschool to Grade Five</em>, symposium presented at the Society for the Scientific Study of Reading Annual Meeting, Calgary, Canada.</li>
 </ul>
 <hr>
 </section>
-<section id="first-introduction-to-sem-emotional-labor-study" class="level2">
-<h2 class="anchored" data-anchor-id="first-introduction-to-sem-emotional-labor-study">First Introduction to SEM: Emotional Labor Study</h2>
-<p>During my undergraduate years, I used SEM to examine <strong>multiple mediating pathways</strong> linking emotional labor, well-being, emotional exhaustion, and turnover intentions.</p>
+<section id="my-first-introduction-to-sem-first-research-project-and-first-publication-as-an-undergraduate" class="level2">
+<h2 class="anchored" data-anchor-id="my-first-introduction-to-sem-first-research-project-and-first-publication-as-an-undergraduate">My First Introduction to SEM, First Research Project, and First Publication as an Undergraduate</h2>
+<p>During my undergraduate years, I used SEM to examine multiple mediating pathways linking emotional labor, well-being, emotional exhaustion, and turnover intentions. I translated an existing scale into Chinese and validated it through EFA and CFA, and I also contributed to the introduction, discussion, formatting, and reference citations for the publication paper. This project began in the second month of college and continued through the completion of my undergraduate thesis. Through this experience, I discovered my passion for research and developed the aspiration to pursue a PhD in quantitative psychology.</p>
 <ul>
 <li>Xie, Q., <strong>Wu, R</strong>., Chen, Y., Xue, M., Chen, Y., Wu, S., &amp; Cai, J. (2023). <em>The impact of emotional labor on turnover intention among kindergarten teachers: Multiple mediating effects of emotional exhaustion and occupational well-being.</em> <em>Teacher Education Research, (3)</em>, 74–81. <a href="https://doi.org/10.13445/j.cnki.t.e.r.2023.03.014">https://doi.org/10.13445/j.cnki.t.e.r.2023.03.014</a></li>
 </ul>
