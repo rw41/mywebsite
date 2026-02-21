@@ -39,7 +39,7 @@ img.profile {
 <div class="left-panel">
   <img src="images/profile.jpg" class="profile" alt="Ruoqian Wu">
   <h3>Ruoqian Wu ｜吴若谦</h3>
-  <p style="font-size: 0.9rem; color: #555;">I am always looking for new ideas, suggestions, collaborators. Feel free to reach out me :)</p>
+  <p style="font-size: 0.9rem; color: #555;">Always looking for new ideas, collaborators. Feel free to reach out me 🤩</p>
  <p><a href="mailto:rw41@illinois.edu">rw41@illinois.edu</a></p>
   <p>
     <a class="icon-link" href="mailto:rw41@illinois.edu">
@@ -63,17 +63,27 @@ img.profile {
 <div class="right-panel">
 
 <p>
-Hello and welcome! I am an second-year MS student in the Quantitative Methods program at the University of Illinois Urbana-Champaign (UIUC), advised by <a href="https://education.illinois.edu/profile/yan-xia" target="_blank">Prof. Xia</a>. I expect to graduate in Summer 2026 and am currently applying to Ph.D. programs in Quantitative Psychology for Fall 2026.
+Hello and welcome! I am a second-year M.S. student in the 
+<a href="https://education.illinois.edu/edpsy/programs-degrees/queries" target="_blank">
+Quantitative Methods (QUERIES)
+</a> program at the University of Illinois Urbana–Champaign (UIUC), where I work under the supervision of 
+<a href="https://education.illinois.edu/profile/yan-xia" target="_blank">Prof. Yan Xia</a>. 
+I expect to graduate in Summer 2026 and pursue a Ph.D. in Quantitative Methods beginning in Fall 2026.
 </p>
 
 <p>
-My research lies at the intersection of complex data structures and advanced statistical modeling, with three primary areas of focus:
+My research focuses on developing and applying advanced statistical and computational methods to better understand complex behavioral and psychological data. My current research interests include:
 </p>
 
 <ul>
-<li>Factor analysis for complex models and data.</li>
-<li>Using modern statistical learning (e.g., regularization, machine learning) and Bayesian approaches to address challenges in behavioral and psychological research.</li>
-<li>Development of statistical methods for several difficult data types, including longitudinal, high-dimensional, text,nonnormal, and missing data, in structural equation modeling and item response theory.</li>
+<li>
+Factor analysis and dynamic factor analysis for categorical and intensive longitudinal data.
+</li>
+
+<li>
+Developing and applying statistical learning, machine learning, and deep learning methods to address  challenges in behavioral research, particularly in high-dimensional, clustered, and large-scale latent variable settings.
+</li>
+</ul>
 
 
 </ul>

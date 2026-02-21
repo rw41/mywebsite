@@ -30,44 +30,51 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "Research&Teaching",
     "section": "",
-    "text": "My current research focuses on evaluating factor retention methods for different types of data in large factor models. This project, conducted under the supervision of Prof. Xia was presented at IMPS 2025. I am currently preparing the manuscript, which is ready to submit.\nA major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the High-Performance Computing (HPC) cluster at UIUC, which significantly accelerates computation(60x) and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEM in R from the Linux shell on HPC systems — available under the Code & Tutorials tab.\n\nWu, R., & Xia, Y. (in prep). Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.\nWu, R., & Xia, Y. (2025, July). Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model. Poster presented at the International Annual Meeting of the Psychometric Society (IMPS), Minneapolis, MN."
+    "text": "Updated on Feb 2026"
   },
   {
     "objectID": "research.html#current-research",
     "href": "research.html#current-research",
-    "title": "Research",
-    "section": "",
-    "text": "My current research focuses on evaluating factor retention methods for different types of data in large factor models. This project, conducted under the supervision of Prof. Xia was presented at IMPS 2025. I am currently preparing the manuscript, which is ready to submit.\nA major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the High-Performance Computing (HPC) cluster at UIUC, which significantly accelerates computation(60x) and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEM in R from the Linux shell on HPC systems — available under the Code & Tutorials tab.\n\nWu, R., & Xia, Y. (in prep). Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.\nWu, R., & Xia, Y. (2025, July). Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model. Poster presented at the International Annual Meeting of the Psychometric Society (IMPS), Minneapolis, MN."
+    "title": "Research&Teaching",
+    "section": "Current Research",
+    "text": "Current Research\nMy current research focuses on evaluating factor retention methods for continuous and categorial data in large factor models. This project, conducted under the supervision of Prof. Yan Xia was presented at IMPS 2025 and NCME 2026. I am currently working on the manuscript and my Master thesis.\nA major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the High-Performance Computing (HPC) cluster at UIUC, which significantly accelerates computation(60x) and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEM in R from the Linux shell on HPC systems — available under the Code & Tutorials tab.\n\nWu, R..(Master thesis). Factor retention in large binary and ordinal models: Evaluating parallel analysis, exploratory graph analysis,machine learning and their variants.\nWu, R., & Xia, Y. (in prep). Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.\nWu, R., Zhou, X.,& Xia, Y. (accepted). Factor retention in large binary and ordinal models:Evaluating parallel analysis, exploratory graph analysis, and their variants. Proposal acceptedfor presentation at the annual meeting of the National Council on Measurement in Education (NCME 2026).\nWu, R., & Xia, Y. (2025, July). Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model. Poster presented at the International Annual Meeting of the Psychometric Society (IMPS), Minneapolis, MN."
   },
   {
-    "objectID": "research.html#adaptive-regularization-in-complex-data",
-    "href": "research.html#adaptive-regularization-in-complex-data",
-    "title": "Research",
-    "section": "Adaptive Regularization in Complex Data",
-    "text": "Adaptive Regularization in Complex Data\nAfter completing my previous project on large factor models, I developed a strong interest in adaptive regularization techniques, especially within the context of network analysis. I was specifically interested in the high-dimensional scenario, especially when \\(p &gt; n\\). In this case, \\(X^\\top X\\) becomes non-invertible, which makes ordinary least squares estimation unstable and prone to overfitting. I am currently exploring advanced methods such as nonconvex penalties and Bayesian approaches (e.g., the Bayesian lasso), where Bayesian methods (especially prior and posterior checks) can make regularization models even more self-adaptive.My ability in this area is supported by the training I received in STAT 431 (Applied Bayesian Analysis) and STAT 432 (Basics of Statistical Learning), which has laid the foundation for my current exploration of adaptive regularization methods."
+    "objectID": "research.html#applied-quantitative-psychology-in-real-world-contexts",
+    "href": "research.html#applied-quantitative-psychology-in-real-world-contexts",
+    "title": "Research&Teaching",
+    "section": "Applied quantitative psychology in Real-World Contexts",
+    "text": "Applied quantitative psychology in Real-World Contexts\nMy third research interest involves applying quantitative psychology to real-world, complex datasets. Recently, I worked on a project that used Confirmatory Factor Analysis (CFA) to examine intensive nominal data from young students’ writing.\n\nMcKenna, M., Bottalico, P.,Wu, R., Xia, Y., & Gerde, H. (July, 2025). Characteristics of Kindergarten Sentence Structure Across Three Writing Genres. In Innovative Approaches to Examining Young Children’s Writing Development and Assessment from Preschool to Grade Five, symposium presented at the Society for the Scientific Study of Reading Annual Meeting, Calgary, Canada."
   },
   {
-    "objectID": "research.html#applied-sem-in-real-world-contexts",
-    "href": "research.html#applied-sem-in-real-world-contexts",
-    "title": "Research",
-    "section": "Applied SEM in Real-World Contexts",
-    "text": "Applied SEM in Real-World Contexts\nMy third research interest lies in applying Structural Equation Modeling (SEM) to real-world, complex datasets. Recently, I worked on a project using Confirmatory Factor Analysis (CFA) to analyze intensive nominal data from young students’ writing.\n\nMcKenna, M., Bottalico, P.,Wu, R., Xia, Y., & Gerde, H. (July, 2025). Characteristics of Kindergarten Sentence Structure Across Three Writing Genres. In Innovative Approaches to Examining Young Children’s Writing Development and Assessment from Preschool to Grade Five, symposium presented at the Society for the Scientific Study of Reading Annual Meeting, Calgary, Canada."
+    "objectID": "research.html#my-first-introduction-to-sem-first-research-project-and-first-publication-as-an-undergraduate",
+    "href": "research.html#my-first-introduction-to-sem-first-research-project-and-first-publication-as-an-undergraduate",
+    "title": "Research&Teaching",
+    "section": "My First Introduction to SEM, First Research Project, and First Publication as an Undergraduate",
+    "text": "My First Introduction to SEM, First Research Project, and First Publication as an Undergraduate\nDuring my undergraduate years, I used SEM to examine multiple mediating pathways linking emotional labor, well-being, emotional exhaustion, and turnover intentions. I translated an existing scale into Chinese and validated it through EFA and CFA, and I also contributed to the introduction, discussion, formatting, and reference citations for the publication paper. This project began in the second month of college and continued through the completion of my undergraduate thesis. Through this experience, I discovered my passion for research and developed the aspiration to pursue a PhD in quantitative psychology.\n\nXie, Q., Wu, R., Chen, Y., Xue, M., Chen, Y., Wu, S., & Cai, J. (2023). The impact of emotional labor on turnover intention among kindergarten teachers: Multiple mediating effects of emotional exhaustion and occupational well-being. Teacher Education Research, (3), 74–81. https://doi.org/10.13445/j.cnki.t.e.r.2023.03.014"
   },
   {
-    "objectID": "research.html#first-introduction-to-sem-emotional-labor-study",
-    "href": "research.html#first-introduction-to-sem-emotional-labor-study",
-    "title": "Research",
-    "section": "First Introduction to SEM: Emotional Labor Study",
-    "text": "First Introduction to SEM: Emotional Labor Study\nDuring my undergraduate years, I used SEM to examine multiple mediating pathways linking emotional labor, well-being, emotional exhaustion, and turnover intentions.\n\nXie, Q., Wu, R., Chen, Y., Xue, M., Chen, Y., Wu, S., & Cai, J. (2023). The impact of emotional labor on turnover intention among kindergarten teachers: Multiple mediating effects of emotional exhaustion and occupational well-being. Teacher Education Research, (3), 74–81. https://doi.org/10.13445/j.cnki.t.e.r.2023.03.014"
+    "objectID": "research.html#collaborative-work",
+    "href": "research.html#collaborative-work",
+    "title": "Research&Teaching",
+    "section": "Collaborative Work",
+    "text": "Collaborative Work\nI feel very fortunate to be part of such a supportive lab with wonderful peers and a positive, collaborative environment.In our collaborative work, I mainly contribute to the computational side, especially using high-performance computing (HPC) to run simulations, manage large-scale analyses, and support our research projects.\n\nZhou, X., Wu, R., & Xia, Y. (accepted). Parametric and nonparametric bootstrapping in exploratory factor analysis with multiple imputation. Proposal accepted for presentation at the annual meeting of the National Council on Measurement in Education (NCME 2026).\nProject: Impact evaluation with latent variables: using factor scores and data mining methods in propensity score matching Funded by Spencer Foundation ($49,879) PIs: Prof. Yan Xia & Prof. Ge Jiang(Role:Graduate research assistant)"
+  },
+  {
+    "objectID": "research.html#teaching-experience",
+    "href": "research.html#teaching-experience",
+    "title": "Research&Teaching",
+    "section": "Teaching experience",
+    "text": "Teaching experience\nIn Spring 2026, I am serving as a Teaching Assistant for (EPSY 581: Applied Regression Analysis). My responsibilities include grading assignments and holding office hours to assist students in developing their understanding of regression methods. I enjoy supporting students’ learning and welcome attend my office hours. 🤩\nEPSY 581 introduces core concepts in regression and statistical modeling, including basic linear algebra, the general linear model, coding schemes, regression diagnostics, and extensions to binary and nested data structures. The course is cross-listed with PSYC 581."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Ruoqian Wu ｜吴若谦\n\n\nI am always looking for new ideas, suggestions, collaborators. Feel free to reach out me :)\n\n\nrw41@illinois.edu\n\n\n     \n\n\n\n  \n\n\n\n\nHello and welcome! I am an second-year MS student in the Quantitative Methods program at the University of Illinois Urbana-Champaign (UIUC), advised by Prof. Xia. I expect to graduate in Summer 2026 and am currently applying to Ph.D. programs in Quantitative Psychology for Fall 2026.\n\n\nMy research lies at the intersection of complex data structures and advanced statistical modeling, with three primary areas of focus:\n\n\n\nFactor analysis for complex models and data.\n\n\nUsing modern statistical learning (e.g., regularization, machine learning) and Bayesian approaches to address challenges in behavioral and psychological research.\n\n\nDevelopment of statistical methods for several difficult data types, including longitudinal, high-dimensional, text,nonnormal, and missing data, in structural equation modeling and item response theory."
+    "text": "Ruoqian Wu ｜吴若谦\n\n\nAlways looking for new ideas, collaborators. Feel free to reach out me 🤩\n\n\nrw41@illinois.edu\n\n\n     \n\n\n\n  \n\n\n\n\nHello and welcome! I am a second-year M.S. student in the  Quantitative Methods (QUERIES)  program at the University of Illinois Urbana–Champaign (UIUC), where I work under the supervision of Prof. Yan Xia. I expect to graduate in Summer 2026 and pursue a Ph.D. in Quantitative Methods beginning in Fall 2026.\n\n\nMy research focuses on developing and applying advanced statistical and computational methods to better understand complex behavioral and psychological data. My current research interests include:\n\n\n\nFactor analysis and dynamic factor analysis for categorical and intensive longitudinal data.\n\n\nDeveloping and applying statistical learning, machine learning, and deep learning methods to address challenges in behavioral research, particularly in high-dimensional, clustered, and large-scale latent variable settings."
   },
   {
     "objectID": "about.html",
@@ -95,55 +102,13 @@
     "href": "about.html#discipline-and-fitness",
     "title": "About Ruoqian",
     "section": "Discipline and Fitness",
-    "text": "Discipline and Fitness\nThe habits I built as an athlete still shape my life today. I keep a consistent routine, avoid unhealthy habits, and eat healthily. I aim to stay energized, creative, and efficient each day. Daily workouts help me manage stress, especially during intense research periods and heavy coursework. My current personal bests are a 180-pound bench press and a 285-pound squat."
+    "text": "Discipline and Fitness\nThe habits I built as an athlete still shape my life today. I keep a consistent routine, avoid unhealthy habits, and eat healthily. I aim to stay energized, creative, and efficient each day. Daily workouts help me manage stress, especially during intense research periods and heavy coursework. My current personal bests are a 235-pound bench press(two plates for 45) and a 285-pound squat(three plates for 45)."
   },
   {
-    "objectID": "about.html#coffee-cars-and-curiosity",
-    "href": "about.html#coffee-cars-and-curiosity",
+    "objectID": "about.html#coffee",
+    "href": "about.html#coffee",
     "title": "About Ruoqian",
-    "section": "Coffee, Cars, and Curiosity",
-    "text": "Coffee, Cars, and Curiosity\nI also enjoy brewing coffee—whether hand-pour or espresso—and experimenting with different beans and extraction methods. It mirrors my research mindset: tweaking inputs to achieve the best outcome. Recently, I’ve picked up car repair as a new hobby. I’ve already replaced filters and made some interior upgrades, and I’m eager to keep learning more."
-  },
-  {
-    "objectID": "research.html#statistical-learning-and-bayes",
-    "href": "research.html#statistical-learning-and-bayes",
-    "title": "Research",
-    "section": "Statistical learning and Bayes",
-    "text": "Statistical learning and Bayes\nWith advances in technology, researchers now have access to a wider range of data collection methods—for example, Computerized Adaptive Testing (CAT), Ecological Momentary Assessment (EMA), and Natural Language Processing (NLP). Consequently, the data used in behavioral and psychological research have become increasingly diverse and complex. To address such research questions, we often work with intensive longitudinal data, high-dimensional data, text data, and missing data, analyzed through structural equation modeling (SEM), hierarchical linear modeling (HLM), multidimensional item response theory (MIRT), and network analysis. In these contexts, traditional estimation methods and fit indices frequently lose their robustness. By contrast, statistical learning and Bayesian approaches provide greater flexibility and resilience, particularly when handling nonlinear structures and models that are difficult to estimate.So this is my second research area,Using modern statistical learning (e.g., regularization, machine learning) and Bayesian approaches to address challenges in behavioral and psychological research.\nMy ability in this area is supported by the training I received in STAT 431 (Applied Bayesian Analysis) and STAT 432 (Basics of Statistical Learning), which has laid the foundation for my current exploration of adaptive regularization and Bayesian methods."
-  },
-  {
-    "objectID": "research.html#applied-quantitative-psychology-in-real-world-contexts",
-    "href": "research.html#applied-quantitative-psychology-in-real-world-contexts",
-    "title": "Research",
-    "section": "Applied quantitative psychology in Real-World Contexts",
-    "text": "Applied quantitative psychology in Real-World Contexts\nMy third research interest involves applying quantitative psychology to real-world, complex datasets. Recently, I worked on a project that used Confirmatory Factor Analysis (CFA) to examine intensive nominal data from young students’ writing.\n\nMcKenna, M., Bottalico, P.,Wu, R., Xia, Y., & Gerde, H. (July, 2025). Characteristics of Kindergarten Sentence Structure Across Three Writing Genres. In Innovative Approaches to Examining Young Children’s Writing Development and Assessment from Preschool to Grade Five, symposium presented at the Society for the Scientific Study of Reading Annual Meeting, Calgary, Canada."
-  },
-  {
-    "objectID": "research.html#my-first-introduction-to-sem-first-research-project-and-first-publication-as-an-undergraduate",
-    "href": "research.html#my-first-introduction-to-sem-first-research-project-and-first-publication-as-an-undergraduate",
-    "title": "Research",
-    "section": "My First Introduction to SEM, First Research Project, and First Publication as an Undergraduate",
-    "text": "My First Introduction to SEM, First Research Project, and First Publication as an Undergraduate\nDuring my undergraduate years, I used SEM to examine multiple mediating pathways linking emotional labor, well-being, emotional exhaustion, and turnover intentions. I translated an existing scale into Chinese and validated it through EFA and CFA, and I also contributed to the introduction, discussion, formatting, and reference citations for the publication paper. This project began in the second month of college and continued through the completion of my undergraduate thesis. Through this experience, I discovered my passion for research and developed the aspiration to pursue a PhD in quantitative psychology.\n\nXie, Q., Wu, R., Chen, Y., Xue, M., Chen, Y., Wu, S., & Cai, J. (2023). The impact of emotional labor on turnover intention among kindergarten teachers: Multiple mediating effects of emotional exhaustion and occupational well-being. Teacher Education Research, (3), 74–81. https://doi.org/10.13445/j.cnki.t.e.r.2023.03.014"
-  },
-  {
-    "objectID": "research.html#statistical-learning-and-bayes-to-solve-challeng-in-the-real-world",
-    "href": "research.html#statistical-learning-and-bayes-to-solve-challeng-in-the-real-world",
-    "title": "Research",
-    "section": "Statistical learning and Bayes to solve challeng in the real world",
-    "text": "Statistical learning and Bayes to solve challeng in the real world\nWith advances in technology, researchers now have access to a wider range of data collection methods—for example, Computerized Adaptive Testing (CAT), Ecological Momentary Assessment (EMA), and Natural Language Processing (NLP). Consequently, the data used in behavioral and psychological research have become increasingly diverse and complex. To address such research questions, we often work with intensive longitudinal data, high-dimensional data, text data, and missing data, analyzed through structural equation modeling (SEM), hierarchical linear modeling (HLM), multidimensional item response theory (MIRT), and network analysis. In these contexts, traditional estimation methods and fit indices frequently lose their robustness. By contrast, statistical learning and Bayesian approaches provide greater flexibility and resilience, particularly when handling nonlinear structures and models that are difficult to estimate.So this is my second research area,Using modern statistical learning (e.g., regularization, machine learning) and Bayesian approaches to address challenges in behavioral and psychological research.\nMy ability in this area is supported by the training I received in STAT 431 (Applied Bayesian Analysis) and STAT 432 (Basics of Statistical Learning), which has laid the foundation for my current exploration of adaptive regularization and Bayesian methods."
-  },
-  {
-    "objectID": "research.html#statistical-learning-and-bayes-to-solve-challeing-in-the-real-world",
-    "href": "research.html#statistical-learning-and-bayes-to-solve-challeing-in-the-real-world",
-    "title": "Research",
-    "section": "Statistical learning and Bayes to solve challeing in the real world",
-    "text": "Statistical learning and Bayes to solve challeing in the real world\nWith advances in technology, researchers now have access to a wider range of data collection methods—for example, Computerized Adaptive Testing (CAT), Ecological Momentary Assessment (EMA), and Natural Language Processing (NLP). Consequently, the data used in behavioral and psychological research have become increasingly diverse and complex. To address such research questions, we often work with intensive longitudinal data, high-dimensional data, text data, and missing data, analyzed through structural equation modeling (SEM), hierarchical linear modeling (HLM), multidimensional item response theory (MIRT), and network analysis. In these contexts, traditional estimation methods and fit indices frequently lose their robustness. By contrast, statistical learning and Bayesian approaches provide greater flexibility and resilience, particularly when handling nonlinear structures and models that are difficult to estimate.So this is my second research area,Using modern statistical learning (e.g., regularization, machine learning) and Bayesian approaches to address challenges in behavioral and psychological research.\nMy ability in this area is supported by the training I received in STAT 431 (Applied Bayesian Analysis) and STAT 432 (Basics of Statistical Learning), which has laid the foundation for my current exploration of adaptive regularization and Bayesian methods."
-  },
-  {
-    "objectID": "research.html#statistical-learning-and-bayes-to-solve-challenges-in-the-real-world",
-    "href": "research.html#statistical-learning-and-bayes-to-solve-challenges-in-the-real-world",
-    "title": "Research",
-    "section": "Statistical learning and Bayes to solve challenges in the real world",
-    "text": "Statistical learning and Bayes to solve challenges in the real world\nWith advances in technology, researchers now have access to a wider range of data collection methods—for example, Computerized Adaptive Testing (CAT), Ecological Momentary Assessment (EMA), and Natural Language Processing (NLP). Consequently, the data used in behavioral and psychological research have become increasingly diverse and complex. To address such research questions, we often work with intensive longitudinal data, high-dimensional data, text data, and missing data, analyzed through structural equation modeling (SEM), hierarchical linear modeling (HLM), multidimensional item response theory (MIRT), and network analysis. In these contexts, traditional estimation methods and fit indices frequently lose their robustness. By contrast, statistical learning and Bayesian approaches provide greater flexibility and resilience, particularly when handling nonlinear structures and parameters that are difficult to estimate.So this is my second research area,Using modern statistical learning (e.g., regularization, machine learning) and Bayesian approaches to address challenges in behavioral and psychological research.\nMy ability in this area is supported by the training I received in STAT 431 (Applied Bayesian Analysis) and STAT 432 (Basics of Statistical Learning), which has laid the foundation for my current exploration of adaptive regularization and Bayesian methods."
+    "section": "Coffee",
+    "text": "Coffee\nI also enjoy brewing coffee—whether hand-pour/mochapot or espresso—and experimenting with different beans and extraction methods."
   }
 ]

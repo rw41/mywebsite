@@ -1,27 +1,23 @@
 ---
-title: "Research"
+title: "Research&Teaching"
 ---
 
-
+Updated on Feb 2026
 
 ## Current Research
 
-My current research focuses on evaluating factor retention methods for different types of data in large factor models. This project, conducted under the supervision of [Prof. Xia](https://education.illinois.edu/profile/yan-xia) was presented at IMPS 2025. I am currently preparing the manuscript, which is ready to submit.
+My current research focuses on evaluating factor retention methods for continuous and categorial data in large factor models. This project, conducted under the supervision of [Prof. Yan Xia](https://education.illinois.edu/profile/yan-xia) was presented at IMPS 2025 and NCME 2026. I am currently working on the manuscript and my Master thesis.
 
 A major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the [High-Performance Computing (HPC)](https://docs.ncsa.illinois.edu/systems/icc/en/latest/index.html) cluster at UIUC, which significantly accelerates computation(60x) and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEM in R from the Linux shell on HPC systems — available under the [Code & Tutorials](experience.qmd) tab.
 
 
-
+- **Wu, R.**.(Master thesis). Factor retention in large binary and ordinal models: Evaluating parallel analysis, exploratory graph analysis,machine learning and their variants.
 - **Wu, R.**, & Xia, Y. (in prep). *Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.*
+- **Wu, R.**, Zhou, X.,& Xia, Y. (accepted). Factor retention in large binary and ordinal models:Evaluating parallel analysis, exploratory graph analysis, and their variants. Proposal acceptedfor presentation at the annual meeting of the National Council on Measurement in Education (NCME 2026).
 - **Wu, R.**, & Xia, Y. (2025, July). *Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.* Poster presented at the International Annual Meeting of the Psychometric Society (IMPS), Minneapolis, MN.
 
----
-
-## Statistical learning and Bayes to solve challenges in the real world
-With advances in technology, researchers now have access to a wider range of data collection methods—for example, Computerized Adaptive Testing (CAT), Ecological Momentary Assessment (EMA), and Natural Language Processing (NLP). Consequently, the data used in behavioral and psychological research have become increasingly diverse and complex. To address such research questions, we often work with intensive longitudinal data, high-dimensional data, text data, and missing data, analyzed through structural equation modeling (SEM), hierarchical linear modeling (HLM), multidimensional item response theory (MIRT), and network analysis. In these contexts, traditional estimation methods and fit indices frequently lose their robustness. By contrast, statistical learning and Bayesian approaches provide greater flexibility and resilience, particularly when handling nonlinear structures and parameters that are difficult to estimate.So this is my second research area,Using modern statistical learning (e.g., regularization, machine learning) and Bayesian approaches to address challenges in behavioral and psychological research.
 
 
-My ability in this area is supported by the training I received in **[STAT 431 (Applied Bayesian Analysis)](https://courses.illinois.edu/schedule/2025/fall/STAT/431)** and **[STAT 432 (Basics of Statistical Learning)](https://teazrq.github.io/stat432/)**, which has laid the foundation for my current exploration of adaptive regularization and Bayesian methods.
 
 
 ---
@@ -43,3 +39,18 @@ During my undergraduate years, I used SEM to examine multiple mediating pathways
 
 - Xie, Q., **Wu, R**., Chen, Y., Xue, M., Chen, Y., Wu, S., & Cai, J. (2023). *The impact of emotional labor on turnover intention among kindergarten teachers: Multiple mediating effects of emotional exhaustion and occupational well-being.* *Teacher Education Research, (3)*, 74–81. [https://doi.org/10.13445/j.cnki.t.e.r.2023.03.014](https://doi.org/10.13445/j.cnki.t.e.r.2023.03.014)
 
+## Collaborative Work
+
+I feel very fortunate to be part of such a supportive lab with wonderful peers and a positive, collaborative environment.In our collaborative work, I mainly contribute to the computational side, especially using high-performance computing (HPC) to run simulations, manage large-scale analyses, and support our research projects.
+
+- Zhou, X., **Wu, R.**, & Xia, Y. (accepted). Parametric and nonparametric bootstrapping in exploratory factor analysis with multiple imputation. Proposal accepted for presentation at the annual meeting of the National Council on Measurement in Education (NCME 2026).
+
+- Project: Impact evaluation with latent variables: using factor scores and data mining methods in propensity score matching Funded by Spencer Foundation ($49,879)
+PIs: Prof. Yan Xia & Prof. Ge Jiang(Role:Graduate research assistant)
+
+
+## Teaching experience
+
+In Spring 2026, I am serving as a Teaching Assistant for [(EPSY 581: Applied Regression Analysis)](https://education.illinois.edu/course/EPSY/581). My responsibilities include grading assignments and holding office hours to assist students in developing their understanding of regression methods. I enjoy supporting students’ learning and welcome attend my office hours. 🤩
+
+EPSY 581 introduces core concepts in regression and statistical modeling, including basic linear algebra, the general linear model, coding schemes, regression diagnostics, and extensions to binary and nested data structures. The course is cross-listed with PSYC 581.
