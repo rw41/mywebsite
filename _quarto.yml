@@ -6,7 +6,7 @@ website:
   title: "Ruoqian Wu"
   navbar:
     left:
-      - text: Research
+      - text: Research&Teaching
         href: research.qmd
       - text: Code & Tutorials
         href: experience.qmd

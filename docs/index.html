@@ -91,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./research.html"> 
-<span class="menu-text">Research</span></a>
+<span class="menu-text">Research&amp;Teaching</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./experience.html"> 
@@ -140,32 +140,59 @@ ul.task-list li input[type="checkbox"] {
 
 
 <style>
+/* ====== Welcome 这一整块的背景（横向铺开） ====== */
+.welcome-section{
+  padding: 80px 0;                 /* Welcome 区域上下留白 */
+  background-image:
+    linear-gradient(rgba(255,255,255,0.72), rgba(255,255,255,0.72)),
+    url("images/chicago-bg.jpg");
+  background-size: cover;          /* 横向铺开 */
+  background-position: center;     /* 居中 */
+  background-repeat: no-repeat;
+}
+
+/* ====== 原来的布局 ====== */
 .page-wrapper {
   display: flex;
   flex-direction: row;
   gap: 40px;
-  margin-top: 2rem;
+
+  /* 让内容居中且有最大宽度（否则会贴边） */
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
 }
+
 .left-panel {
   width: 260px;
   flex-shrink: 0;
   text-align: center;
 }
+
 .right-panel {
   flex-grow: 1;
   max-width: 750px;
 }
+
 img.profile {
   border-radius: 50%;
   width: 150px;
   height: 150px;
   object-fit: cover;
 }
+
 .icon-link img {
   width: 24px;
   height: 24px;
   margin: 0 6px;
   vertical-align: middle;
+}
+
+/* 手机端：两列变一列 */
+@media (max-width: 900px){
+  .page-wrapper{ flex-direction: column; }
+  .left-panel{ width: 100%; }
+  .right-panel{ max-width: 100%; }
 }
 </style>
 <div class="page-wrapper">
@@ -183,10 +210,10 @@ Always looking for new ideas, collaborators. Feel free to reach out me 🤩
 <p>
 <a class="icon-link" href="mailto:rw41@illinois.edu"> <img src="https://img.icons8.com/ios-filled/30/000000/filled-message.png" alt="Email"> </a> <a class="icon-link" href="https://www.linkedin.com/in/ruoqian-wu-a036a42b0/" target="_blank"> <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png" alt="LinkedIn"> </a>
 </p>
-<!-- Visitor Map -->
-<p style="margin-top: 10px; text-align: center;">
-<a href="https://clustrmaps.com/site/1c7gv" title="ClustrMaps"> <img src="//www.clustrmaps.com/map_v2.png?d=EZgLnX7M6p3EwaQzgb2MzXEBGMSMBx8ndBjso0VSDmU&amp;cl=ffffff" width="180" alt="Visitor Map"> </a>
-</p>
+<p></p>
+</div>
+<div class="right-panel">
+
 </div>
 <div class="right-panel">
 <p>
@@ -197,10 +224,10 @@ My research focuses on developing and applying advanced statistical and computat
 </p>
 <ul>
 <li>
-Factor analysis and dynamic factor analysis for categorical and intensive longitudinal data.
+Factor analysis and dynamic factor analysis for intensive longitudinal and categorical data.
 </li>
 <li>
-Developing and applying statistical learning, machine learning, and deep learning methods to address challenges in behavioral research, particularly in high-dimensional, clustered, and large-scale latent variable settings.
+Developing and applying statistical, machine learning, and deep learning methodologies to address complex methodological challenges in behavioral research, with emphasis on interaction effects, clustered data structures, high-dimensional and multimodal data.
 </li>
 </ul>
 
