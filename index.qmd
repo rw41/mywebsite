@@ -22,7 +22,7 @@ format: html
   gap: 40px;
 
   /* 让内容居中且有最大宽度（否则会贴边） */
-  max-width: 1100px;
+  max-width: 3100px;
   margin: 0 auto;
   padding: 0 24px;
 }
@@ -35,7 +35,7 @@ format: html
 
 .right-panel {
   flex-grow: 1;
-  max-width: 750px;
+  max-width: 1300px;
 }
 
 img.profile {
@@ -65,7 +65,7 @@ img.profile {
 <div class="left-panel">
   <img src="images/profile.jpg" class="profile" alt="Ruoqian Wu">
   <h3>Ruoqian Wu ｜吴若谦</h3>
-  <p style="font-size: 0.9rem; color: #555;">Always looking for new ideas, collaborators. Feel free to reach out me 🤩</p>
+  <p style="font-size: 0.9rem; color: #555;">Always looking for new ideas, collaborators. Feel free to reach out me :)</p>
  <p><a href="mailto:rw41@illinois.edu">rw41@illinois.edu</a></p>
   <p>
     <a class="icon-link" href="mailto:rw41@illinois.edu">
@@ -95,17 +95,13 @@ I expect to graduate in Summer 2026 and pursue a Ph.D. in Quantitative Methods b
 </p>
 
 <p>
-My research focuses on developing and applying advanced statistical and computational methods to better understand complex behavioral and psychological data. My current research interests include:
+My current research interests include:
 </p>
 
 <ul>
-<li>
-Factor analysis and dynamic factor analysis for intensive longitudinal and categorical data.
-</li>
-
-<li>
-Developing and applying statistical, machine learning, and deep learning methodologies to address complex methodological challenges in behavioral research, with emphasis on interaction effects, clustered data structures, high-dimensional and multimodal data.
-</li>
+  <li>
+    Developing and applying machine learning and AI-driven methodologies to address complex methodological challenges in behavioral research, with particular emphasis on intensive longitudinal and multimodal data.
+  </li>
 </ul>
 
 
