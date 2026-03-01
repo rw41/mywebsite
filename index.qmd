@@ -76,6 +76,18 @@ img.profile {
     </a>
   </p>
 
+
+
+
+<!-- Static visitor map -->
+<p style="margin-top: 10px; text-align: center;">
+  <a href="https://clustrmaps.com/site/1c7gv" title="ClustrMaps">
+    <img src="//www.clustrmaps.com/map_v2.png?d=EZgLnX7M6p3EwaQzgb2MzXEBGMSMBx8ndBjso0VSDmU&cl=ffffff"
+         width="180" alt="Visitor Map" />
+  </a>
+</p>
+
+
 </p>
 </div>
 
@@ -91,7 +103,7 @@ Hello and welcome! I am a second-year M.S. student in the
 Quantitative Methods (QUERIES)
 </a> program at the University of Illinois Urbana–Champaign (UIUC), where I work under the supervision of 
 <a href="https://education.illinois.edu/profile/yan-xia" target="_blank">Prof. Yan Xia</a>. 
-I expect to graduate in Summer 2026 and pursue a Ph.D. in Quantitative Methods beginning in Fall 2026.
+I expect to graduate in Spring 2026 and will begin my Ph.D. in Quantitative methods at UIUC  in Fall 2026.
 </p>
 
 <p>
