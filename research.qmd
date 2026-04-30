@@ -2,7 +2,7 @@
 title: "Research&Teaching"
 ---
 
-Updated on Feb 2026
+Updated on April 2026
 
 ## Current Research
 
@@ -11,9 +11,10 @@ My current research focuses on evaluating factor retention methods for continuou
 A major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the [High-Performance Computing (HPC)](https://docs.ncsa.illinois.edu/systems/icc/en/latest/index.html) cluster at UIUC, which significantly accelerates computation(60x) and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEM in R from the Linux shell on HPC systems — available under the [Code & Tutorials](experience.qmd) tab.
 
 
+
+- **Wu, R.**, & Xia, Y. (in press). Which factor retention method is best for large factor models? A simulation study comparing 15 techniques. <em>Educational and Psychological Measurement</em>. [Accepted for publication]
 - **Wu, R.**.(Master thesis). Factor retention in large binary and ordinal models: Evaluating parallel analysis, exploratory graph analysis,machine learning and their variants.
-- **Wu, R.**, & Xia, Y. (in prep). *Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.*
-- **Wu, R.**, Zhou, X.,& Xia, Y. (accepted). Factor retention in large binary and ordinal models:Evaluating parallel analysis, exploratory graph analysis, and their variants. Proposal acceptedfor presentation at the annual meeting of the National Council on Measurement in Education (NCME 2026).
+- **Wu, R.**, Zhou, X.,& Xia, Y. (2026, April). Factor retention in large binary and ordinal models:Evaluating parallel analysis, exploratory graph analysis, and their variants.  * Lecture presented at the annual meeting of the National Council on Measurement in Education (NCME 2026),Los Angeles,California.
 - **Wu, R.**, & Xia, Y. (2025, July). *Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.* Poster presented at the International Annual Meeting of the Psychometric Society (IMPS 2025), Minneapolis, MN.
 
 
