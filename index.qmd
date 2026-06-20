@@ -103,14 +103,6 @@ img.profile {
 
 
 
-<!-- Visitor country counter (Flag Counter) -->
-<p style="margin-top: 10px; text-align: center;">
-  <a href="http://s01.flagcounter.com/more/lAG">
-    <img src="https://s01.flagcounter.com/count2/lAG/bg_FFFFFF/txt_000000/border_CCCCCC/columns_1/maxflags_5/viewers_0/labels_0/pageviews_0/flags_0/percent_0/"
-         alt="Flag Counter" border="0" style="border:none;" />
-  </a>
-</p>
-
 <div class="updates-box">
   <h4>Updates</h4>
   <ul>

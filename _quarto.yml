@@ -19,3 +19,5 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-in-header:
+      - statcounter.html
