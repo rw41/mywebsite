@@ -126,12 +126,12 @@ img.profile {
 <div class="right-panel">
 
 <p>
-Hello and welcome! I am a second-year M.S. student in the 
+Hello and welcome! I am a first-year Ph.D. student in the 
 <a href="https://education.illinois.edu/edpsy/programs-degrees/queries" target="_blank">
 Quantitative Methods (QUERIES)
 </a> program at the University of Illinois Urbana–Champaign (UIUC), where I work under the supervision of 
-<a href="https://education.illinois.edu/profile/yan-xia" target="_blank">Prof. Yan Xia</a>. 
-I expect to graduate in Spring 2026 and will begin my Ph.D. in Quantitative methods at UIUC  in Fall 2026.
+<a href="https://education.illinois.edu/profile/yan-xia" target="_blank">Prof. Yan Xia</a>.
+I previously earned my M.S. in the same program at UIUC.
 </p>
 
 <p>
@@ -140,13 +140,10 @@ My current research interests include:
 
 <ol>
   <li>
-    <strong>Factor analysis</strong>, especially methods for evaluating dimensionality and measurement structures in behavioral data.
+    Machine learning and structural equation modeling
   </li>
   <li>
-    <strong>Machine learning based methodological development in behavioral research</strong>, with a focus on developing and evaluating new methods to address real world measurement and modeling challenges.
-  </li>
-  <li>
-    <strong>Applied statistical modeling and collaboration</strong>, including working with scholars to analyze complex data and answer challenging research questions in applied settings.
+    Applied statistical methods for substantive behavioral research
   </li>
 </ol>
 
