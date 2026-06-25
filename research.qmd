@@ -12,7 +12,7 @@ A major challenge of this project involves conducting large-scale Monte Carlo si
 
 
 
-- **Wu, R.**, & Xia, Y. (in press). Which factor retention method is best for large factor models? A simulation study comparing 15 techniques. <em>Educational and Psychological Measurement</em>. [Accepted for publication]
+- **Wu, R.**, & Xia, Y. (2026). Evaluating factor retention in large factor analysis models: A simulation study comparing 15 methods. <em>Educational and Psychological Measurement</em>. Advance online publication. [https://doi.org/10.1177/00131644261448083](https://journals.sagepub.com/doi/10.1177/00131644261448083)
 - **Wu, R.**.(Master thesis). Factor retention in large binary and ordinal models: Evaluating parallel analysis, exploratory graph analysis,machine learning and their variants.
 - **Wu, R.**, Zhou, X.,& Xia, Y. (2026, April). Factor retention in large binary and ordinal models:Evaluating parallel analysis, exploratory graph analysis, and their variants.  * Lecture presented at the annual meeting of the National Council on Measurement in Education (NCME 2026),Los Angeles,California.
 - **Wu, R.**, & Xia, Y. (2025, July). *Which factor retention method is best for large factor models? A simulation study comparing 15 techniques in the Large Factor Model.* Poster presented at the International Annual Meeting of the Psychometric Society (IMPS 2025), Minneapolis, MN.
