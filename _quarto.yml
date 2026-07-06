@@ -12,8 +12,6 @@ website:
         href: experience.qmd
       - text: About Ruoqian
         href: about.qmd
-      - text: Daily Life
-        href: daily.qmd
 
 format:
   html:
