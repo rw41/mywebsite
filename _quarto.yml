@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - assets
 
 website:
   title: "Ruoqian Wu"
@@ -12,7 +14,6 @@ website:
         href: experience.qmd
       - text: About Ruoqian
         href: about.qmd
-
 format:
   html:
     theme: cosmo
