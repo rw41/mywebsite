@@ -2,7 +2,7 @@
 title: "Research&Teaching"
 ---
 
-Updated on April 2026
+Updated on Aug 2026
 
 ## Current Research
 
@@ -53,6 +53,8 @@ PIs: Prof. Yan Xia & Prof. Ge Jiang(Role:Graduate research assistant)
 
 ## Teaching experience
 
-In Spring 2026, I am serving as a Teaching Assistant for [(EPSY 581: Applied Regression Analysis)](https://education.illinois.edu/course/EPSY/581). My responsibilities include grading assignments and holding office hours to assist students in developing their understanding of regression methods. I enjoy supporting students’ learning and welcome attend my office hours. 🤩
+In Fall 2026, I am serving as a Teaching Assistant for [(EPSY 584: Multivariate Analysis in Psych and Ed)](https://education.illinois.edu/course/EPSY/584). In Spring 2026, I served as a Teaching Assistant for [(EPSY 581: Applied Regression Analysis)](https://education.illinois.edu/course/EPSY/581). My responsibilities include grading assignments and holding office hours to support students in developing their understanding of statistical methods. I enjoy supporting students’ learning and welcome them to attend my office hours. 🤩
+
+EPSY 584 introduces major methods for analyzing multiple measurements, including linear transformations, multiple regression, principal component analysis, multivariate analysis of variance (MANOVA), canonical correlation, discriminant analysis, and factor analysis. The course emphasizes both the theoretical foundations and practical applications of multivariate statistical methods and is cross-listed with PSYC 584 and SOC 584.
 
 EPSY 581 introduces core concepts in regression and statistical modeling, including basic linear algebra, the general linear model, coding schemes, regression diagnostics, and extensions to binary and nested data structures. The course is cross-listed with PSYC 581.
