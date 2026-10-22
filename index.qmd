@@ -51,6 +51,11 @@ img.profile {
   vertical-align: middle;
 }
 
+.office-hours {
+  font-size: 0.85rem;
+  color: #555;
+}
+
 .updates-box {
   margin-top: 16px;
   padding: 14px 16px;
@@ -91,6 +96,10 @@ img.profile {
   <h3>Ruoqian Wu ｜吴若谦</h3>
   <p style="font-size: 0.9rem; color: #555;">Always looking for new ideas, collaborators. Feel free to reach out me :)</p>
  <p><a href="mailto:rw41@illinois.edu">rw41@illinois.edu</a></p>
+  <p class="office-hours">
+    📅 Office hours: Thu 2–4 pm (15-min slots) ·
+    <a href="https://bookings.cloud.microsoft/bookwithme/user/0e93b94845ed447999b079821133659f@illinois.edu?anonymous&ismsaljsauthenabled&ep=plink" target="_blank" rel="noopener noreferrer">Book a slot</a>
+  </p>
   <p>
     <a class="icon-link" href="mailto:rw41@illinois.edu">
       <img src="https://img.icons8.com/ios-filled/30/000000/filled-message.png" alt="Email" />
