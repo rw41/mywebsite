@@ -27,7 +27,7 @@ A major challenge of this project involves conducting large-scale Monte Carlo si
 
 ## Applied quantitative psychology in Real-World Contexts
 
-My third research interest involves applying quantitative psychology to real-world, complex datasets. Recently, I worked on a project that used Confirmatory Factor Analysis (CFA) to examine intensive nominal data from young students’ writing.
+My second research interest involves applying quantitative psychology to real-world, complex datasets. Recently, I worked on a project that used Confirmatory Factor Analysis (CFA) to examine intensive nominal data from young students’ writing.
 
 
 - McKenna, M., Bottalico, P.,**Wu, R.**, Xia, Y., & Gerde, H. (July, 2025). *Characteristics of Kindergarten Sentence Structure Across Three Writing Genres.* In *Innovative Approaches to Examining Young Children’s Writing Development and Assessment from Preschool to Grade Five*, symposium presented at the Society for the Scientific Study of Reading Annual Meeting, Calgary, Canada.
