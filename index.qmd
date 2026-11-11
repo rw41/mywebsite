@@ -139,7 +139,7 @@ img.profile {
 
 <p>
 Hello and welcome! I am a first-year Ph.D. student in the 
-<a href="https://education.illinois.edu/edpsy/programs-degrees/queries" target="_blank">
+<a href="https://education.illinois.edu/edpsy/programs-degrees/queries/specializations" target="_blank">
 Quantitative Methods (QUERIES)
 </a> program at the University of Illinois Urbana–Champaign (UIUC), where I work under the supervision of 
 <a href="https://education.illinois.edu/profile/yan-xia" target="_blank">Prof. Yan Xia</a>.
