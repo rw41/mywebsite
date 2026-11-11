@@ -118,7 +118,7 @@ img.profile {
 <div class="updates-box">
   <h4>Updates</h4>
   <ul>
-    <li>May 2026: Received the Outstanding Student Medal from the College of Education at the University of Illinois Urbana-Champaign.</li>
+    <li>May 2026: Received the <a href="https://education.illinois.edu/about/news-events/news/article/2026/05/11/our-2026-outstanding-student-medallion-recipients" target="_blank" rel="noopener noreferrer">Outstanding Student Medal</a> from the College of Education at the University of Illinois Urbana-Champaign.</li>
     <li>April 2026: A manuscript on factor retention in large factor analysis models was accepted by <em>Educational and Psychological Measurement</em>.</li>
     <li>April 2026: Selected by the College of Education to be featured in an academic profile in <em>The Illio Yearbook</em>.</li>
     <li>April 2026: Successfully defended my master&rsquo;s thesis on factor retention methods for categorical data in large exploratory factor analysis models.</li>
