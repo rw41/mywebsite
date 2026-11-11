@@ -6,7 +6,7 @@ Updated on Aug 2026
 
 ## Current Research
 
-My current research focuses on evaluating factor retention methods for continuous and categorial data in large factor models. This project, conducted under the supervision of [Prof. Yan Xia](https://education.illinois.edu/profile/yan-xia) was presented at IMPS 2025 and NCME 2026. I am currently working on the manuscript and my Master thesis.
+My current research focuses on evaluating factor retention methods for continuous and categorial data in large factor models. This project, conducted under the supervision of [Prof. Yan Xia](https://education.illinois.edu/profile/yan-xia) was presented at IMPS 2025 and NCME 2026.
 
 A major challenge of this project involves conducting large-scale Monte Carlo simulations. To address this, I developed custom R code specifically designed to run SEM-based simulations efficiently on a Linux system. These simulations are executed on the [High-Performance Computing (HPC)](https://docs.ncsa.illinois.edu/systems/icc/en/latest/index.html) cluster at UIUC, which significantly accelerates computation(60x) and enables greater scalability. To support others working on similar projects, I am also writing a step-by-step tutorial on how to run Monte Carlo simulations for SEM in R from the Linux shell on HPC systems — available under the [Code & Tutorials](experience.qmd) tab.
 
